@@ -106,7 +106,7 @@ To get started with this project, follow these steps:
 2. **Clone the repository**:
    - Clone this project to your local machine:
      ```bash
-     git clone https://github.com/your-username/alx-backend-javascript.git
+     git clone https://github.com/Alogyn/alx-backend-javascript.git
      cd alx-backend-javascript/0x00-ES6_basic
      ```
 
