@@ -26,19 +26,55 @@ This project includes the following:
 
 3. **Task 2: Arrow Functions**  
    - **File:** [2-arrow.js](./2-arrow.js)  
-   - **Description:** Rewrite functions using arrow syntax for cleaner and more concise code.
+   - **Description:** Rewrite functions using ES6 arrow syntax.
 
 4. **Task 3: Parameter Defaults**  
    - **File:** [3-default-parameter.js](./3-default-parameter.js)  
-   - **Description:** Set default values for function parameters and reduce the length of your function logic.
+   - **Description:** Simplify the function logic by using default parameter values.
 
 5. **Task 4: Rest Parameter Syntax**  
    - **File:** [4-rest-parameter.js](./4-rest-parameter.js)  
-   - **Description:** Implement a function to return the number of arguments passed using the rest parameter syntax.
+   - **Description:** Return the number of arguments passed to the function using the rest parameter syntax.
 
 6. **Task 5: Spread Syntax**  
    - **File:** [5-spread-operator.js](./5-spread-operator.js)  
-   - **Description:** Use the spread syntax to concatenate arrays and strings.
+   - **Description:** Concatenate arrays and strings using the spread syntax.
+
+7. **Task 6: Template Literals**  
+   - **File:** [6-string-interpolation.js](./6-string-interpolation.js)  
+   - **Description:** Use template literals to create more readable and concise strings.
+
+8. **Task 7: Object Property Shorthand**  
+   - **File:** [7-getBudgetObject.js](./7-getBudgetObject.js)  
+   - **Description:** Use shorthand syntax for object properties.
+
+9. **Task 8: Computed Property Names**  
+   - **File:** [8-getBudgetCurrentYear.js](./8-getBudgetCurrentYear.js)  
+   - **Description:** Use computed property names to dynamically add properties to an object.
+
+10. **Task 9: ES6 Method Properties**  
+    - **File:** [9-getFullBudget.js](./9-getFullBudget.js)  
+    - **Description:** Add methods to an object using ES6 method property syntax.
+
+11. **Task 10: For...of Loops**  
+    - **File:** [10-loops.js](./10-loops.js)  
+    - **Description:** Rewrite the function using `for...of` loops for iterating over arrays.
+
+12. **Task 11: Iterator**  
+    - **File:** [11-createEmployeesObject.js](./11-createEmployeesObject.js)  
+    - **Description:** Create an object to store employees by department.
+
+13. **Task 12: Report Object**  
+    - **File:** [12-createReportObject.js](./12-createReportObject.js)  
+    - **Description:** Create a report object containing all employees and a method to get the number of departments.
+
+14. **Task 13: Iterator for Report**  
+    - **File:** [100-createIteratorObject.js](./100-createIteratorObject.js)  
+    - **Description:** Write an iterator function to go through every employee in every department.
+
+15. **Task 14: Iterate Through Object**  
+    - **File:** [101-iterateThroughObject.js](./101-iterateThroughObject.js)  
+    - **Description:** Iterate through the report object, returning a string of all employee names, separated by `|`.
 
 ## 📚 Resources
 
