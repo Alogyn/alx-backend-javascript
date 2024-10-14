@@ -1,4 +1,4 @@
-# 0x00. ES6 Basic 📜
+# 0x00. ES6 Basics 📜
 
 Welcome to the **ES6 Basics** project, part of the ALX Backend JavaScript curriculum. In this project, you'll explore the features introduced in ECMAScript 6 (ES6) and apply them to solve various tasks in JavaScript.
 
