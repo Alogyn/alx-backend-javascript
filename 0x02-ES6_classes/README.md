@@ -1,4 +1,4 @@
-A# 0x02. ES6 Classes 🏫
+# 0x02. ES6 Classes 🏫
 
 Welcome to the **ES6 Classes** project, part of the ALX Backend JavaScript curriculum. In this project, you will learn about object-oriented programming using **JavaScript ES6** classes, focusing on inheritance, methods, and metaprogramming techniques.
 
