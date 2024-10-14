@@ -1,4 +1,4 @@
-# 0x04. TypeScrip 🛠️
+# 0x04. TypeScript 🛠️
 
 Welcome to the **TypeScript** project, part of the ALX Backend JavaScript curriculum. This project will help you learn the basic and advanced features of **TypeScript**, including types, interfaces, classes, and working with the DOM.
 
